@@ -1,0 +1,139 @@
+101 Dalmatians 
+Cartoon
+    1961
+    Wolfgang Reitherman, Hamilton Luske and Clyde Geronimi
+    Summaries. When a litter of Dalmatian puppies are abducted by the minions of Cruella De Vil, the owners must find them before she uses them for a diabolical fashion statement. A dalmatian named Pongo falls in love with a beautiful Dalmatian named Perdita and begin a family shorty after their owners marry.
+D:\Python Learning Pro\Project X\Posters\dalmat.WEBP
+
+The Sword in the Stone
+Cartoon
+    1963
+    Wolfgang Reitherman
+    The Sword in the Stone by T. H. White tells the story of a young King Arthur, known as Wart, and how he became a leader. He is tutored by a wizard named Merlyn, who lives backwards through time, has a talking owl, and has magical powers such as the ability to turn people into animals.   
+D:\Python Learning\Project X\Posters\SWORD.JPG
+
+Mary Poppins
+Cartoon
+    1964
+    Robert Stevenson
+    Mary Poppins, the first novel in a series of children's books written by P.L. Travers, published in 1934. The titular character is a sensible English nanny with magical powers, and the work uses mythological allusion and biting social critique to explore the fraught relationship between children and adults.
+D:\Python Learning Pro\Project X\Posters\poppins.WEBP
+
+The Jungle Book
+Cartoon
+    1967
+    Wolfgang Reitherman
+    The stories tell mostly of Mowgli, an Indian boy who is raised by wolves and learns self-sufficiency and wisdom from the jungle animals. The book describes the social life of the wolf pack and, more fancifully, the justice and natural order of life in the jungle.
+D:\Python Learning\Project X\Posters\jungle.PNG
+
+Dumbo
+Cartoon
+    1941
+    Ben Sharpsteen
+    The title character is Dumbo, the nickname given to Jumbo Jr. He is an elephant who has huge ears and is able to use them to fly, carrying what he thinks of as a magic feather. Dumbo does not have a word of spoken dialogue in the film.
+D:\Python Learning\Project X\Posters\dumbo.jpg
+
+Snow White and the Seven Dwarfs
+Cartoon 
+    1937
+    David Hand
+    In this groundbreaking animated film, Snow White, a princess with unparalleled beauty, befriends seven endearing dwarfs while attempting to escape the vengeful Evil Queen. The enchanting narrative and timeless songs marked Disney's first foray into feature-length animation.
+D:\Python Learning\Project X\Posters\snowwhite.jpg
+
+Cinderella
+Cartoon
+    1950
+    Clyde Geronimi, Hamilton Luske and Wilfred Jackson
+    A quintessential fairy tale, Cinderella tells the story of a kind-hearted but mistreated young woman who, with the magical intervention of her fairy godmother, is given the chance to attend the royal ball and ultimately find her happily ever after.
+D:\Python Learning\Project X\Posters\Cinderella.jpg
+
+Sleeping Beauty
+Cartoon
+    1959
+    Clyde Geronimi
+    A masterpiece of animation, Sleeping Beauty recounts the tale of Princess Aurora, cursed by the wicked Maleficent to die on her sixteenth birthday. The film unfolds as the three good fairies intervene to change the course of the curse, leading to a timeless battle between good and evil.
+D:\Python Learning\Project X\Posters\sleep.jpg
+
+The Little Mermaid
+Cartoon
+    1989
+    Ron Clements and John Musker
+    Under the sea, Ariel, an adventurous mermaid princess, dreams of a life beyond the ocean waves. When she falls in love with a human prince, she makes a perilous deal with the sea witch Ursula, setting the stage for a captivating underwater and land adventure.
+D:\Python Learning\Project X\Posters\little.jpg
+
+Beauty and the Beast
+Cartoon 
+    1991
+    Gary Trousdale and Kirk Wise
+    "Beauty and the Beast" is a tale as old as time, where Belle, an intelligent and kind young woman, finds herself in an enchanted castle with a prince cursed to be a Beast. As Belle looks beyond the Beast's exterior, love blossoms, breaking the curse and teaching a lesson about inner beauty.
+D:\Python Learning\Project X\Posters\beauty.jpg
+
+Aladdin 
+Cartoon 
+    1992
+    Ron Clements and John Musker
+    Set in the vibrant city of Agrabah, Aladdin tells the tale of a street-smart young man who, with the help of a magical genie, seeks to win the heart of Princess Jasmine. The film is a magical carpet ride through a world of adventure, humor, and love.
+D:\Python Learning\Project X\Posters\alladin.jpeg
+
+The Lion King 
+Cartoon 
+    1994
+    Roger Allers and Rob Minkoff
+    The Lion King is a majestic journey that follows Simba, a lion cub, as he navigates the circle of life to reclaim his rightful place as the king of the Pride Lands. Filled with unforgettable characters and stirring music, it's a coming-of-age story set against the backdrop of the African savannah.
+D:\Python Learning\Project X\Posters\reallion.jpg
+
+Disney Finder
+Cartoon
+    2023
+    Andrii Stakhov
+    Disney Finder can help you find the information you need about your favourite classic cartoons. All you need to do is enter the name of your film and click "Search"
+D:\Python Learning\Project X\Posters\home.jpg
+
+Zootopia 
+Cartoon
+    2016
+    Byron Howard and Rich Moore
+    In the city of Zootopia, a bunny cop named Judy Hopps teams up with a cynical con artist fox, Nick Wilde, to solve a mystery. The film explores themes of tolerance, diversity, and the pursuit of justice in a vibrant, anthropomorphic world.
+D:\Python Learning\Project X\Posters\zootopia.jpg
+
+Moana
+Cartoon 
+    2016
+    Ron Clements and John Musker
+    "Moana" follows the adventurous journey of a spirited Polynesian teenager who sets sail to save her island and discovers her true destiny. The film celebrates courage, self-discovery, and the importance of preserving one's culture.
+D:\Python Learning Pro\Project X\Posters\moana2.jpg
+
+The Princess and the Frog
+Cartoon
+    2009
+    Ron Clements and John Musker
+    "The Princess and the Frog" is a musical set in New Orleans, following Tiana, a hardworking waitress, and a prince who has been transformed into a frog. Together, they navigate the mystical bayous of Louisiana in an attempt to break the spell.
+D:\Python Learning Pro\Project X\Posters\frogg.jpg
+
+Tarzan 
+Cartoon
+    1999
+    Kevin Lima and Chris Buck
+    "Tarzan" follows the story of a man raised by gorillas in the jungle. When explorer Jane Porter and her father arrive, Tarzan discovers his human heritage and faces choices that will shape his destiny.
+D:\Python Learning Pro\Project X\Posters\tarzan.jpg
+
+Frozen 
+Cartoon 
+    2013
+    Chris Buck and Jennifer Lee
+    In "Frozen," Elsa, the Snow Queen, accidentally traps her kingdom in eternal winter, prompting her sister Anna to embark on a perilous journey to find her. The film explores themes of sisterhood, self-discovery, and the power of love.
+D:\Python Learning Pro\Project X\Posters\frozen.jpg
+
+Mulan 
+Cartoon
+    1998
+    Tony Bancroft, Barry Cook
+    "Mulan" is the inspiring story of a courageous young woman who disguises herself as a man to take her father's place in the army. Mulan's journey challenges gender norms as she strives to save China from invading forces.
+D:\Python Learning Pro\Project X\Posters\mulan.jpeg
+
+Pocahontas 
+Cartoon
+    1995
+    Mike Gabriel and Eric Goldberg
+    Set during the early days of the Jamestown settlement, "Pocahontas" follows the unlikely love story between Pocahontas, a Native American woman, and John Smith, an Englishman. The film explores themes of cultural differences and environmental harmony.
+D:\Python Learning Pro\Project X\Posters\poca2.jpg
